@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "bulletninja",
-    "repositoryName": "bulletninja.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"bulletninja","repositoryName":"bulletninja.github.io","branch":"master"},"site":{"url":"https://bulletninja.github.io"},"socialnetwork":{"email":"luis.valenzuela@mustache.mx","twitter":"valenluis","github":"bulletninja"},"theme":{"name":"Casper","url":"//bulletninja.github.io/themes/Casper"}}
