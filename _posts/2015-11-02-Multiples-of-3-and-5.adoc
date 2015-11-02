@@ -1,5 +1,6 @@
 Multiples of 3 and 5
 ====================
+:hp-tags: project euler, python
 
 Problem 1
 ---------
