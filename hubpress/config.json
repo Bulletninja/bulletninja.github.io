@@ -1,1 +1,17 @@
-{"meta":{"username":"bulletninja","repositoryName":"bulletninja.github.io","branch":"master","cname":"bullet.ninja"},"site":{"url":"http://bullet.ninja"},"socialnetwork":{"email":"luis.valenzuela@mustache.mx","twitter":"valenluis","github":"https://github.com/Bulletninja"},"theme":{"name":"Casper","url":"//bullet.ninja/themes/Casper"}}
+{
+  "meta": {
+    "username": "bulletninja",
+    "repositoryName": "bulletninja.github.io",
+    "branch": "master",
+    "cname": "bullet.ninja"
+  },
+  "site": {},
+  "socialnetwork": {
+    "email": "luis.valenzuela@mustache.mx",
+    "twitter": "valenluis",
+    "github": "https://github.com/Bulletninja"
+  },
+  "theme": {
+    "name": "ghostium"
+  }
+}
